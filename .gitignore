@@ -1,0 +1,11 @@
+.idea
+bk
+*.html
+/loc
+localisation
+memory.po
+update.py
+*~
+~*
+.~*
+*.bak
