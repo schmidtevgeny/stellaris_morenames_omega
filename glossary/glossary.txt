@@ -1,0 +1,17 @@
+# Glossary in tab-separated format -*- coding: utf-8 -*-
+Power Relay	силовое ядро
+Compound	Соединение
+Precursor	Предтечи
+Cruiser	Крейсер
+Destroyer	Разрушитель
+Battlecruiser	Боевой крейсер
+Shrouded World	Окутанный мир
+Escort	эскорт	тип корабля
+Wormhole	червоточина
+Titanic Beast	Титанический зверь
+pre-sapient	предразумный
+Archivist	Архивариус
+Grand Archive	Великий архив
+Offspring	Отпрыски
+Broodmother	матка
+Hull Points	корпус	очки прочности корпуса
