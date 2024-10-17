@@ -1,0 +1,8 @@
+﻿l_russian:
+
+  mod_shipclass_military_hull_mult: "Корпус военного корабля"
+  mod_shipclass_military_special_hull_mult: "Очки Здоровья Специализированного Корабля"
+  mod_shipclass_starbase_hull_mult: "Здоровье космической базы"
+  shipclass_military_hull_mult: "Корпус военного корабля"
+  shipclass_military_special_hull_mult: "Очки Здоровья Специализированного Корабля"
+  shipclass_starbase_hull_mult: "Здоровье космической базы"

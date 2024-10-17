@@ -1,0 +1,8 @@
+﻿l_russian:
+
+  mod_shipclass_military_hull_mult: "Military Ship Hull Points"
+  mod_shipclass_military_special_hull_mult: "Specialized Ship Hull Points"
+  mod_shipclass_starbase_hull_mult: "Starbase Hull Points"
+  shipclass_military_hull_mult: "Military Ship Hull Points"
+  shipclass_military_special_hull_mult: "Specialized Ship Hull Points"
+  shipclass_starbase_hull_mult: "Starbase Hull Points"

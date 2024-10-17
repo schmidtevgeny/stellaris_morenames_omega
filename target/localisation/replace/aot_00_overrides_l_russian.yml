@@ -1,0 +1,6 @@
+﻿l_russian:
+
+  building_acot_stellarite_nexus: "Стелларитовое силовое ядро"
+  building_acot_stellarite_nexus_desc: "$tech_acot_stellarite_nexus_desc$"
+  tech_acot_stellarite_nexus: "Стелларитовые силовые ядра"
+  tech_acot_stellarite_nexus_desc: "Первое поколение §H $tech_acot_stellarite_nexus$§! обеспечивает еще большее увеличение эффективности и стабильности по сравнению с предыдущим $tech_phanon_stellarite_nexus$ при обогащении £acot_sr_stellarite£ $acot_sr_stellarite$. Теперь мы можем строить производственные мощности, способные усилить существующую инфраструктуру £acot_sr_stellarite£ $acot_sr_stellarite$. Это будет огромным благом для нас, учитывая огромное количество £aot_sr_runic_power£ $aot_sr_runic_power$, необходимой для поддержания нашей £acot_sr_stellarite£ $acot_sr_stellarite$ промышленности."
