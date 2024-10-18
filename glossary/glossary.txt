@@ -1,5 +1,5 @@
 # Glossary in tab-separated format -*- coding: utf-8 -*-
-Power Relay	силовое ядро
+Power Relay	силовое реле
 Compound	Соединение
 Precursor	Предтечи
 Cruiser	Крейсер
@@ -15,3 +15,6 @@ Grand Archive	Великий архив
 Offspring	Отпрыски
 Broodmother	матка
 Hull Points	корпус	очки прочности корпуса
+Enigmalith	Энигмалит
+H.O.D.O.R.	H.O.D.O.R.
+Warbarge	Варбаржа
