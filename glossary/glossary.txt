@@ -18,3 +18,7 @@ Hull Points	корпус	очки прочности корпуса
 Enigmalith	Энигмалит
 H.O.D.O.R.	H.O.D.O.R.
 Warbarge	Варбаржа
+galnet	галанет
+shroud	Покров
+Kool Aid	Хладо-ген
+Cyber-Dim	нейрооборащения
