@@ -1,9 +1,0 @@
-﻿l_russian:
-
-  acot_offspring_supply_bay_tooltip: "$acot_supply_bay_tooltip$"
-  job_acot_offspring: "Offspring Broodmother"
-  job_acot_offspring_desc: "Offspring Broodmothers provide necessary care and tending to the spawns of the future."
-  job_acot_offspring_plural: "Offspring Broodmothers"
-  mod_job_acot_offspring_add: "$job_acot_offspring$"
-  sm_acot_offspring_supply_bay: "Потомство $sm_acot_supply_bay$"
-  sm_acot_offspring_supply_bay_desc: "$sm_acot_supply_bay_desc$"
