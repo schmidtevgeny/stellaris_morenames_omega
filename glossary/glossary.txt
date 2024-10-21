@@ -41,3 +41,17 @@ DAI	Дельфийский ИИ
 DAI's	Дельфийские ИИ
 Giga Fortress.	гага-крепость
 Runic Power	руническая сила
+Aeternite	Аетернит
+Beamsprayer	рассеиватель лучей
+Max districts	Максимум районов
+Matter Decompressor	Декомпрессор материи
+Mega Shipyard	Мегаверфь
+Orbital Ring	Орбитальное кольцо
+Interstellar Assembly	Межзвездная Ассамблея
+Science Nexus	Научный Нексус
+Dyson Sphere	Сфера Дайсона
+Mega Art Installtion	Художественная мегакомпозиция
+Strategic Coordination Center	Центр стратегической координации
+Sentry Array	Сенсорный массив
+Ring World	Мир кольца
+Gray Goo	Серая слизь
