@@ -22,3 +22,22 @@ galnet	галанет
 shroud	Покров
 Kool Aid	Хладо-ген
 Cyber-Dim	нейрооборащения
+system's primary	звезда системы
+Phanon Vault	Хранилище Фанона
+has depowered	отключилось
+Juggernaut	Джагернаут
+Mega-Alloy Foundries	мегалитейные заводы
+Private Mega-Alloy Foundries	Частные мегалитейные заводы
+Enigmatic Research Complex	загадочный исследовательский комплекс
+Amusement	Развлекательный
+Sky-Dome	Небесный купол
+Star-Dome	Звездный купол
+Hard-Light	жесткого света
+mega-mall	торговый центр
+Delphic-AI-Core	ядро Дельфийского ИИ
+Stellarite	стелларита
+Wrecking Yard	Авторазборка
+DAI	Дельфийский ИИ
+DAI's	Дельфийские ИИ
+Giga Fortress.	гага-крепость
+Runic Power	руническая сила
