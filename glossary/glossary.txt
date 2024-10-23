@@ -62,3 +62,6 @@ Council Agenda	повестку совета
 Official	чиновник
 Scientist	ученый
 Commander	коммандир
+Issues Special Project	Специальный проект
+Jobs	Вакансии
+Pops	Поселений
