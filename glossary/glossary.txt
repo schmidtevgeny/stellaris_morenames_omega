@@ -65,3 +65,5 @@ Commander	коммандир
 Issues Special Project	Специальный проект
 Jobs	Вакансии
 Pops	Поселений
+garden world	миры-сады
+Government Perk	правительственный перк
