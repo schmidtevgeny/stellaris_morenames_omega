@@ -58,3 +58,7 @@ Gray Goo	Серая слизь
 Planetary Modifier	Планетарный модификатор
 sapient	разумный
 Merchant of Avarice	Торговец скупости
+Council Agenda	повестку совета
+Official	чиновник
+Scientist	ученый
+Commander	коммандир
