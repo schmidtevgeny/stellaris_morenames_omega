@@ -67,3 +67,7 @@ Jobs	Вакансии
 Pops	Поселений
 garden world	миры-сады
 Government Perk	правительственный перк
+One	Единый
+Rivals	соперник
+increased by	увеличивается на
+S.U.C.C.	У.П.С.Т.О.
