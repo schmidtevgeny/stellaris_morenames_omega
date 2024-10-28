@@ -114,4 +114,4 @@ Suurikilpian	Суурикильпиан	Этернит \ «Великий щит
 Aiondia	Айондия	Столица Аутернит
 Anti-Aeternite Alliance	Альянс Анти-Аетернит
 Anti-Aeternite League	Лига Анти-Аетернит
-Planetcrafts	Плпнетолет
+Planetcrafts	Планетолет
