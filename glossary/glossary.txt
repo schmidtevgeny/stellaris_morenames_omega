@@ -115,3 +115,8 @@ Aiondia	Айондия	Столица Аутернит
 Anti-Aeternite Alliance	Альянс Анти-Аетернит
 Anti-Aeternite League	Лига Анти-Аетернит
 Planetcrafts	Планетолет
+Research options requiring this:	Варианты исследований, требующие этого:
+Ascension Perks requiring this:	Перки вознесения, требующие этого:
+Research options gained:	Открывает доступ к технологиям:
+Ascension Perks	бонусы за стремление
+Reward	Награда
