@@ -135,3 +135,22 @@ Planck-Dismantlement Beam	Планковско-демонтажный луч
 Katzprotektorat	Кацпротекторат	Кацпротекторат - это форма марионеточного правительства, созданного Империумом Катценартиг
 Framework	Каркас
 Integrity	Целостность
+Systemcraft	Системный корабль
+Paluush	Палууш
+telluric	землеподобная
+ringworld	мир кольца
+Katlantropa	Катлантропа	ппроект орощения катцен
+Planetary Dockyard	Планетарный док
+Dockyard	док
+Roqualian	солакийский
+FTL	ССД
+Defense Nexus	Оборонительный Нексус
+Kaiser Moon	Луна Кайзера
+Kugelblitz	кугельблиц
+Planetary Dockyard	Планетарная верфь
+Naval Capacity	предел флотов
+Planetary Drive Yards	Планетарные продвинутые верфи
+tractor beams	притягивающие лучи
+Inquietude Edict	Указ озабоченности
+Psionic Sublimate	Псионический сублимат
+microverse	микровселенная
