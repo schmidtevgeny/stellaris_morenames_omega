@@ -1,0 +1,151 @@
+# Glossary in tab-separated format -*- coding: utf-8 -*-
+Juggernaut	Джаггернаут
+Titan Bow	Нос титана
+Titan Core	Корпус титана
+Titan Stern	Корма титана
+Broadside Bow	Носовая батарея
+Titan Breaker	Нос титановый разрушитель
+Artillery Bow	Носовая артиллерия
+Hangar Bow	Носовые ангары
+Spinal Mount Bow	Главный калибр
+Soul Breaker	Нос «Разрушитель душ»
+Nova Core	Корпус «Сверхновая»
+Stormbringer Core	Корпус «Буревестник»
+Broadside Core	Орудийная палуба
+Artillery Core	Артиллерийская палуба
+Hangar Core	Ангарная палуба
+Carrier Core	Корпус корабля-носителя
+Aeon Bulwark	Фальшборт «Аэон»
+Artillery Stern	Кормовая артиллерия
+Broadside Stern	Кормовые орудия
+Zenith Bulwark	Фальшборт «Зенит»
+Colony Ship	Корпус колониального корабля
+Seed Core	Корпус «Источник»
+Gaia Core	Корпус «Идеал»
+Construction Ship	Корпус строительного корабля
+Developer Core	Корпус «Строитель»
+Fuser Core	Корпус «Сварщик»
+Torpedo Boat	Торпедный катер
+Interceptor	Перехватчик
+Shifter Core	Корпус «Ловкач»
+Picket Ship	Корабль перехвата
+Artillery Bow	Носовая артиллерия
+Torpedo Bow	Носовые торпеды
+Broadside Bow	Носовая батарея
+Hangar Core	Ангарная палуба
+Artillery Core	Артиллерийская палуба
+Broadside Core	Орудийная палуба
+Torpedo Core	Торпедная палуба
+Broadside Stern	Кормовые орудия
+Gunship Stern	Тяжелые кормовые орудия
+Gunship Bow	Тяжелые носовые орудия
+Picket Ship Bow	Носовой локатор
+Artillery Bow	Носовая артиллерия
+Picket Ship Stern	Кормовой локатор
+Interceptor Ship Stern	Локатор-перехватчик
+Gunship Stern	Тяжелые кормовые орудия
+Science Ship	Научный корабль
+Trailblazer Core	Корпус «Первопроходец»
+Insight Core	Корпус «Озарение»
+Light Station Section	Легкая секция
+Point-Defense Station Section	Оборонительная секция
+Medium Station Section	Средняя секция
+Missile Station Section	Ракетная секция
+Heavy Station Section	Тяжелая секция
+Hangar Station Section	Ангарная секция
+Light Station Section	Легкая секция
+Medium Station Section	Средняя секция
+Heavy Station Section	Тяжелая секция
+Hangar Station Section	Ангарная секция
+Frontier Outpost Core	Корпус пограничного форпоста
+Torpedo Section	Торпедный модуль
+Construction Ship	Корпус строительного корабля
+Colony Ship	Корпус колониального корабля
+Science Ship	Научный корабль
+Orbital Station Frame	Корпус орбитальной станции
+Mining Station Frame	Корпус добывающей станции
+Research Station Frame	Корпус научной станции
+Wormhole Station Frame	Корпус станции червоточин
+Basic Military Platform	Базовая боевая платформа
+Transport Ship	Транспортный корабль
+Colossus	Колосс
+Ghost Ship Frame	Корпус корабля-призрака
+Locust	Саранча
+Locusts	Саранча
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
